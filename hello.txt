@@ -6,3 +6,4 @@ qwerty
 test 1 - added more text
 test 2 - some more text
 testtest
+testtest2 for issue #5
