@@ -18,3 +18,4 @@ my branch 1
 
 my branch edited 2
 
+my branch 2
