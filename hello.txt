@@ -1,4 +1,6 @@
 hello
+world2
+
 world
 qwerty
 
@@ -19,8 +21,8 @@ my branch 1
 my branch edited 2
 
 
-my branch 2
 
+my branch 2 added
 my branch 2 added
 
 
