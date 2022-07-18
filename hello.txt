@@ -15,7 +15,3 @@ test8
 test9
 
 
-editing master on GH
-edit master 22
-edit master 23
-edit master 24
