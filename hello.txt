@@ -2,18 +2,4 @@ hello
 world
 qwerty
 
-
-test 1 - added more text
-test 2 - some more text
-testtest
-testtest2 for issue #5
-testtest3 for issue #5 to squash
-
-
-some more testing if you like
-
-try to squash
-try to squash 2
-try to squash 3
-sq again
-sqsq
+test1
