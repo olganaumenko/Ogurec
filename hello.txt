@@ -11,3 +11,7 @@ testtest3 for issue #5 to squash
 
 
 some more testing if you like
+
+try to squash
+try to squash 2
+try to squash 3
