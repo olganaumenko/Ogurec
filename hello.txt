@@ -20,8 +20,8 @@ my branch edited 2
 
 my branch 2 added
 
-<<<<<<< HEAD
+
 master exp
-=======
+
 experiment
->>>>>>> 4cd84da (experiment message)
+
